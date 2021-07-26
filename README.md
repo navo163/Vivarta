@@ -1,6 +1,6 @@
 # Vivarta
 
-In this app, We have included 6 handpicked historical places and monuments of national importance of our choice in this app. 
+In this app, we have included 6 handpicked historical places and monuments of national importance of our choice. 
 
 Upon clicking on the name of any one of the given six, the app will display a very brief history of and a few lines about the place/monument along with images of the same.
 
