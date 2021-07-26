@@ -1,4 +1,4 @@
-# Vivarta
+# VIVARTA
 
 In this app, we have included 6 handpicked historical places and monuments of national importance of our choice. 
 
